@@ -1,5 +1,5 @@
 ---
-name: chatdiary
+name: ChatDiary
 description: "讲故事对话日记 skill。用户以'讲故事'或'开始讲故事'触发开始；以'不讲了'或'停止讲故事'触发结束；记录中按 OpenClaw 提供的角色设定进行一问一答式聊天，并在结束时把本轮对话写入 Obsidian 日记库当天文件，更新 # 话题，追加 ---- 分割线。"
 ---
 
